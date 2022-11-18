@@ -1,10 +1,8 @@
-analise-dados-itegra-bot
-==============================
+# analise-dados-itegra-bot
 
-Bot de Teletuito de fazer uma Analise de Dados de uma empresa pelo RH. O usuário vai poder solicitar graficos ou dados para um bot no telegran de uma planilha disponibilizada no Google Driver de uma empresa ficticia. Com o objetivo de facilitar uma analise por parte do pessoal do RH da empresa.
+Bot de Telegram de fazer uma Analise de Dados de uma empresa pelo RH. O usuário vai poder solicitar graficos ou dados para um bot no telegran de uma planilha disponibilizada no Google Driver de uma empresa ficticia. Com o objetivo de facilitar uma analise por parte do pessoal do RH da empresa.
 
-Project Organization
-------------
+## Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -51,7 +49,6 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
-
---------
+---
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
